@@ -1,0 +1,11 @@
+/* Write your CSS code here */
+.list-item {
+  width: 70%;
+  margin: auto;
+  padding: 0px;
+}
+@media (max-width: 1024px) {
+  .list-item {
+    width: 93%;
+  }
+}
